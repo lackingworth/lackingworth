@@ -48,6 +48,10 @@
     <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"
       alt="sass"/>
   </a>
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"
+      alt="tailwind"/>
+  </a>
   <a href="https://babeljs.io/" target="_blank">
     <img src="https://img.shields.io/badge/babel-F9DC3E.svg?style=for-the-badge&logo=babel&logoColor=black" alt="babel"/> 
   </a>
@@ -75,6 +79,9 @@
 <p align="center">
   <a href="https://firebase.google.com/" target="_blank">
     <img src="https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase"/>
+  </a>
+  <a href="https://www.cloudflare.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" alt="cloudflare"/>
   </a>
   <a href="https://heroku.com" target="_blank"> 
     <img src="https://img.shields.io/badge/heroku-430098.svg?style=for-the-badge&logo=heroku&logoColor=white"
@@ -129,10 +136,12 @@
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=lackingworth&theme=onedark)](https://github.com/lackingworth/github-profile-trophy)
-  
 [![](https://github-readme-stats.vercel.app/api?username=lackingworth&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/lackingworth)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=lackingworth&theme=material-palenight)](https://github.com/lackingworth)
+
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=lackingworth&theme=blue-green)](https://github.com/lackingworth)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=lackingworth&theme=onedark)](https://github.com/lackingworth/github-profile-trophy)
 </div>
 
 ----
