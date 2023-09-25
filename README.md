@@ -4,13 +4,13 @@
 
 - 🌱 I’m currently learning **to be more stoic** <img align="right" style="width:16rem; height:auto" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
 
-- 👯 I’m looking to collaborate on **VueJs Framework**
+- 👯 I’m looking to collaborate on **GO projects**
 
-- 🤝 I’m looking for help with **Frontend Designing Patterns**
+- 🤝 I’m looking for help with **Backend Patterns**
 
 - 👨‍💻 All of my projects are available [@lackingworth](github.com/;ackingworth)
 
-- 💬 Ask me about **VueJs and Anime**
+- 💬 Ask me about **VueJs, GO and Anime**
 
 
 ---
@@ -36,6 +36,9 @@
   </a>
   <a href="https://kotlinlang.org" target="_blank">
     <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" alt="kotlin" />
+  </a>
+  <a href="https://go.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="go" />
   </a>
 </p>
 
