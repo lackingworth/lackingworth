@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Rozanov Sergei<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
-<h3 font-size="20" align="center">A passionate frontend developer.</h3>
+<h3 font-size="20" align="center">A passionate fullstack developer.</h3>
 
 
 - 🌱 I’m currently learning **to be more stoic** <img align="right" style="width:16rem; height:auto" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
