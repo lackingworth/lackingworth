@@ -167,8 +167,6 @@
 [![](https://github-readme-stats.vercel.app/api?username=lackingworth&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/lackingworth)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=lackingworth&theme=material-palenight)](https://github.com/lackingworth)
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=lackingworth&theme=blue-green)](https://github.com/lackingworth)
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=lackingworth&theme=onedark)](https://github.com/lackingworth/github-profile-trophy)
 </div>
 
